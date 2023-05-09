@@ -1,0 +1,13 @@
+package com.grocer.filters;
+
+public class UserFilter {
+    public Integer id;
+
+    public Integer getId() {
+        return id;
+    }
+
+    public void setId(Integer id) {
+        this.id = id;
+    }
+}
